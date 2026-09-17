@@ -1,0 +1,32 @@
+### 1. Executive Summary
+
+The business generated **₹15.84M in total revenue** across **99,440 orders** and **96,096 customers**, maintaining solid operational quality with a **4.09 / 5 average review score** and a low **0.63% cancellation rate**. However, performance is severely impacted by a low **3.12% repeat customer rate**, with approximately 98% of all cohort purchasing activity dropping off after the first month. Because high customer satisfaction rules out service or product quality issues, strategic priority must shift from purely one-off acquisition toward active customer retention, cross-selling, and expanding high-value customer segments.
+
+---
+
+### 2. Key Findings
+
+* **Severe Retention Drop-off:** The platform suffers from a very low repeat customer rate of **3.12%**. Cohort analysis confirms that ~98% of customer activity is restricted to their first month across all cohorts from Sep 2016 to Oct 2018, indicating a lack of post-purchase engagement or recurring purchase incentives.
+* **Satisfaction Paradox:** Operational metrics are strong, with an average delivery time of **12.5 days**, a low cancellation rate of **0.63%**, and consistent review scores (**4.1–4.2 out of 5** across all states). This confirms that poor retention is driven by marketing and engagement gaps rather than fulfillment or product quality defects.
+* **Customer Value Concentration:** 
+  * **High Value segment:** Represents 4,424 customers who contribute **₹4.59M** in revenue with a high average spend of **₹923.05** (compared to the overall AOV of **₹160.99**).
+  * **Medium Value segment:** Drives the largest share of revenue at **₹7.28M** across 27,932 customers (avg. revenue of **₹243.90**).
+  * **Low Value segment:** Comprises the vast majority of users (**63,064 customers**) but generates lower per-user returns (**₹5.09M total**, avg. revenue of **₹79.66**).
+* **Geographic Dominance:** São Paulo (**SP**) is the single largest revenue driver, generating **₹5.92M** (approx. 37.4% of total revenue).
+* **Category Performance:** **Health & Beauty** (**₹1,441.25K**) and **Watches & Gifts** (**₹1,305.54K**) are the primary revenue-generating categories, presenting the strongest opportunity for cross-selling and replenishment campaigns.
+
+---
+
+### 3. Business Recommendations
+
+1. **Implement Automated Lifecycle & Replenishment Campaigns:**  
+   Capitalize on high-performing, consumable categories like **Health & Beauty (₹1,441.25K)** by setting up automated post-purchase communication (email/SMS/WhatsApp) at 30-, 60-, and 90-day intervals. Introducing subscription options or replenishment reminders will directly target the **3.12% repeat purchase rate** drop-off.
+
+2. **Upsell and Nurture the Medium-Value Customer Segment:**  
+   Focus retention marketing budget on moving the **27,932 Medium Value customers** (avg. revenue **₹243.90**) into the High Value tier (avg. revenue **₹923.05**). Utilize personalized recommendations, tier-based loyalty rewards, and threshold-based free shipping (e.g., spend above ₹300) to raise the baseline **AOV from ₹160.99**.
+
+3. **Incentivize Second-Purchase Conversion for Low-Value Users:**  
+   Given that **63,064 customers** sit in the Low Value tier (avg. spend **₹79.66**), offer a time-sensitive bounce-back discount code on their second order within 14 days of first delivery. Converting even 5% of these single-purchase buyers into repeat buyers would add significant revenue.
+
+4. **Double Down on Geographic Strengths While Expanding Top Regions:**  
+   Maintain fulfillment infrastructure in **São Paulo (SP - ₹5.92M)** to protect core revenue while replicating SP's successful logistics and marketing playbook in the next top 3-5 state markets to diversify regional revenue dependence.
