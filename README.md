@@ -51,9 +51,9 @@ Customer-level analysis including geographic distribution, review scores, a **Co
 **3. Revenue is concentrated in a Medium-Value segment, not just top spenders.** Customer Value Segmentation shows:
    | Segment | Customers | Total Revenue | Avg Revenue |
    |---|---|---|---|
-   | High Value | 4,424 (4.6%) | ₹45.94L | ₹923.05 |
-   | Medium Value | 27,932 (29%) | ₹72.84L (largest share) | ₹243.90 |
-   | Low Value | 63,064 (65.6%) | ₹50.91L | ₹79.66 |
+   | High Value | 4,424 (4.6%) | R$45.94L | R$923.05 |
+   | Medium Value | 27,932 (29%) | R$72.84L (largest share) | R$243.90 |
+   | Low Value | 63,064 (65.6%) | R$50.91L | R$79.66 |
 
    The majority of customers (66%) are low-value, one-time buyers — while the Medium-Value segment, not High-Value, contributes the largest share of total revenue.
 
